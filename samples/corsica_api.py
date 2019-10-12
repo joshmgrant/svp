@@ -1,5 +1,5 @@
-from api_object import API
-from api_object import APIResponse
+from svp.api_object import API
+from svp.api_object import APIResponse
 
 
 class CorsicaAPI(API):

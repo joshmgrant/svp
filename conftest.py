@@ -1,6 +1,6 @@
 import pytest
 from samples.corsica_api import CorsicaAPI
-from api_object import APIAssert
+from svp.api_object import APIAssert
 
 
 @pytest.fixture(scope="function")
