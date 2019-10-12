@@ -1,5 +1,5 @@
 ## SVP - A Python-based API testing microframework
-[![CircleCI Status]()]()
+[![CircleCI](https://circleci.com/gh/joshmgrant/svp.svg?style=svg)](https://circleci.com/gh/joshmgrant/svp)
 
 Automating testing is no easy task. Luckily, we're here to help - with API testing. All you need to do is ask.
 
