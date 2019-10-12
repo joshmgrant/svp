@@ -1,5 +1,5 @@
 import pytest
-from corsica_api import CorsicaAPI
+from samples.corsica_api import CorsicaAPI
 from api_object import APIAssert
 
 
