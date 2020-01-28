@@ -1,5 +1,7 @@
 ## SVP - A Python-based API testing microframework
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joshmgrant/svp) 
 [![CircleCI](https://circleci.com/gh/joshmgrant/svp.svg?style=svg)](https://circleci.com/gh/joshmgrant/svp)
+
 
 Automating testing is no easy task. Luckily, we're here to help - with API testing. All you need to do is ask.
 
@@ -9,7 +11,18 @@ The goal of this project is to be as lightweight as possible and make use of com
 
 ## Installation
 
-_Stay tuned!_
+The latest version of SVP can be installed via pip
+
+```
+pip install svp
+```
+
+or this repository can be cloned and SVP can be installed directly
+
+```
+python setup.py install
+```
+
 
 ### Usage
 
